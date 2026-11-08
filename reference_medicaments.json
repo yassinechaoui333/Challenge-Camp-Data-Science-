@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "niveau": "nom_de_medicament_sans_validation_du_produit",
+  "origine": "Lexique pédagogique du prototype. Aucun catalogue commercial ni dosage validé.",
+  "produits": [
+    {
+      "id": "MED-001",
+      "nom": "Doliprane",
+      "alias": [
+        "doliprane",
+        "dolipran",
+        "doli",
+        "دوليبران",
+        "دوليبرين",
+        "دوليبغان"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    },
+    {
+      "id": "MED-002",
+      "nom": "Efferalgan",
+      "alias": [
+        "efferalgan",
+        "eferalgan",
+        "ايفيرالغان",
+        "ايفرالغان",
+        "إيفيرالغان"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    },
+    {
+      "id": "MED-003",
+      "nom": "Smecta",
+      "alias": [
+        "smecta",
+        "smekta",
+        "سميكتا",
+        "سميكطا"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    },
+    {
+      "id": "MED-004",
+      "nom": "Ventoline",
+      "alias": [
+        "ventoline",
+        "ventolin",
+        "فونتولين",
+        "فنتولين",
+        "فانطولين"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    },
+    {
+      "id": "MED-005",
+      "nom": "Gaviscon",
+      "alias": [
+        "gaviscon",
+        "gaviskon",
+        "غافيسكون",
+        "جافيسكون"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    },
+    {
+      "id": "MED-006",
+      "nom": "Spasfon",
+      "alias": [
+        "spasfon",
+        "سباسفون",
+        "سْباسفون"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    },
+    {
+      "id": "MED-007",
+      "nom": "Dafalgan",
+      "alias": [
+        "dafalgan",
+        "دافالغان",
+        "دافالكان"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    },
+    {
+      "id": "MED-008",
+      "nom": "Imodium",
+      "alias": [
+        "imodium",
+        "ايموديوم",
+        "إيموديوم"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    },
+    {
+      "id": "MED-009",
+      "nom": "Losartan",
+      "alias": [
+        "losartan",
+        "لوسارتان"
+      ],
+      "dosages_reference": null,
+      "conditionnements_reference": null,
+      "disponibilite_reelle": null
+    }
+  ]
+}

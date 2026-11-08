@@ -1,0 +1,19 @@
+{
+  "name": "pharmadarija-combine",
+  "version": "4.0.0",
+  "private": true,
+  "description": "OCR local pour PharmaDarija, Challenges 1 et 2",
+  "dependencies": {
+    "tesseract.js": "7.0.0",
+    "sharp": "0.35.5"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "python app.py --open",
+    "test": "python test_v2.py && python test_vision.py",
+    "test:ocr": "python evaluate_vision.py --full",
+    "test:photo": "python test_photo_losartan.py"
+  }
+}

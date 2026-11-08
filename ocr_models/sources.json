@@ -1,0 +1,17 @@
+{
+  "projet": "tesseract-ocr/tessdata_fast",
+  "licence": "Apache-2.0",
+  "telechargement_date": "2026-10-27",
+  "modeles": [
+    {
+      "fichier": "fra.traineddata",
+      "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/fra.traineddata",
+      "sha256": "ced037562e8c80c13122dece28dd477d399af80911a28791a66a63ac1e3445ca"
+    },
+    {
+      "fichier": "ara.traineddata",
+      "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/ara.traineddata",
+      "sha256": "e3206d3dc87fd50c24a0fb9f01838615911d25168f4e64415244b67d2bb3e729"
+    }
+  ]
+}

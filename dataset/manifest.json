@@ -1,0 +1,262 @@
+{
+  "nature": "Fiches texte artificielles, aucune photo de boîte réelle. Jeu de développement, sans mesure terrain.",
+  "generation": "Fiches texte rendues dans Chrome avec Arial pour la composition arabe. Variantes produites par Pillow. Aucune photo commerciale.",
+  "cas": [
+    {
+      "fichier": "doliprane_net.png",
+      "nom_attendu": "Doliprane",
+      "condition": "net",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "8a58d5efe2f1366e1b0daf0c12442b85b4f9857c0608b74aeb71b97a7bf62526"
+    },
+    {
+      "fichier": "doliprane_flou.png",
+      "nom_attendu": "Doliprane",
+      "condition": "flou_modere",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "a80b1ce0e657481c4a705a3c796430d1dc44e35d56f317a6a4e269a8cee528a1"
+    },
+    {
+      "fichier": "doliprane_sombre.png",
+      "nom_attendu": "Doliprane",
+      "condition": "eclairage_reduit",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "0b7a21b148005120cc681f7bb5c4b56c0b967844242ecab50032836075733f4e"
+    },
+    {
+      "fichier": "doliprane_rotation_90.png",
+      "nom_attendu": "Doliprane",
+      "condition": "rotation_90",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "aeb552eb4a468927542af17f7b7141773beb6e5c97b7764bf09ab1e5dd94ca7b"
+    },
+    {
+      "fichier": "doliprane_recadrage.png",
+      "nom_attendu": "Doliprane",
+      "condition": "recadrage",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "4ef0497b16aa3a98079604e4228abd537909c76659a766664f24214b8e33e2b7"
+    },
+    {
+      "fichier": "efferalgan_net.png",
+      "nom_attendu": "Efferalgan",
+      "condition": "net",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "4c35b84e9f6221255f44be2177b31ab446ff22c38d79f74ab076bf6dab761797"
+    },
+    {
+      "fichier": "efferalgan_rotation_90.png",
+      "nom_attendu": "Efferalgan",
+      "condition": "rotation_90",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "46e48eb2a3a2b6617c9d1bb198bfb982d4ae8014e156d8ac0df0d12935f838a7"
+    },
+    {
+      "fichier": "efferalgan_recadrage.png",
+      "nom_attendu": "Efferalgan",
+      "condition": "recadrage",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "2feb707046085e9037b41b2522c8c82630aa7311adfa39731fc2efc009dd181c"
+    },
+    {
+      "fichier": "smecta_net.png",
+      "nom_attendu": "Smecta",
+      "condition": "net",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "318b8bbae9126239087adb7a015ce293b943a0e705bcdda1216797498f8f77fc"
+    },
+    {
+      "fichier": "smecta_flou.png",
+      "nom_attendu": "Smecta",
+      "condition": "flou_modere",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "d3639d96550fdda33cdf1b2ea363f414b1ae1546f94b5390b37d4ba9f114ad23"
+    },
+    {
+      "fichier": "smecta_sombre.png",
+      "nom_attendu": "Smecta",
+      "condition": "eclairage_reduit",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "7e4a986b09d5f1ebe74d7a518c0e3f6253fc8812b3ea68fb2012151896a38bbe"
+    },
+    {
+      "fichier": "smecta_rotation_90.png",
+      "nom_attendu": "Smecta",
+      "condition": "rotation_90",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "5e56846cd025c113e809b32b1580a98415e61b668e95c6b72e57b72216c17553"
+    },
+    {
+      "fichier": "smecta_recadrage.png",
+      "nom_attendu": "Smecta",
+      "condition": "recadrage",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "09773c3e7fb7c744d38ee5eebd36146eb8184f2b00b04a4f0ed1879ba8af6ba8"
+    },
+    {
+      "fichier": "ventoline_net.png",
+      "nom_attendu": "Ventoline",
+      "condition": "net",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "7d3cbe88894ef758b021831e67befa345bb1012ba5d434a655947a6479230750"
+    },
+    {
+      "fichier": "ventoline_rotation_90.png",
+      "nom_attendu": "Ventoline",
+      "condition": "rotation_90",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "f45cac73b5a1b576dfd38020397f52bd74ef9186d446184b83a7924193455ae2"
+    },
+    {
+      "fichier": "ventoline_recadrage.png",
+      "nom_attendu": "Ventoline",
+      "condition": "recadrage",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "ecb3baafc1f4a35730a089ce2e65c3565282635e3230c6c7d199376eacd9266d"
+    },
+    {
+      "fichier": "gaviscon_net.png",
+      "nom_attendu": "Gaviscon",
+      "condition": "net",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "c8cc67f9d269716053c75c1a1f391a177831e035532b2c01d46511c4d67e54a3"
+    },
+    {
+      "fichier": "gaviscon_rotation_90.png",
+      "nom_attendu": "Gaviscon",
+      "condition": "rotation_90",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "4be0420d2354c60f9ee2de753083fafc61ad5b0f0995a75368c90600b9517890"
+    },
+    {
+      "fichier": "gaviscon_recadrage.png",
+      "nom_attendu": "Gaviscon",
+      "condition": "recadrage",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "c73f644e51b87515027b14f718f2af87fe9c8bb2901ae9fbebf28216a1ac6649"
+    },
+    {
+      "fichier": "spasfon_net.png",
+      "nom_attendu": "Spasfon",
+      "condition": "net",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "a651afedb52ccd64efd9d2c39ec73d82a8a498287c5d247a2e36c875f0e12416"
+    },
+    {
+      "fichier": "spasfon_rotation_90.png",
+      "nom_attendu": "Spasfon",
+      "condition": "rotation_90",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "16100a9aaf569ab2b495b5952767b9a28d44923424e76c6f4ace43406815f198"
+    },
+    {
+      "fichier": "spasfon_recadrage.png",
+      "nom_attendu": "Spasfon",
+      "condition": "recadrage",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "86fedb3bc2ab5017aabae0ded2436fe27b3f5ceeb66d57ffa0cb00327e66f736"
+    },
+    {
+      "fichier": "dafalgan_net.png",
+      "nom_attendu": "Dafalgan",
+      "condition": "net",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "1fe487448f8ccbc1371e9d7935885933eca0350cac33f99ab936394167fcf42c"
+    },
+    {
+      "fichier": "dafalgan_rotation_90.png",
+      "nom_attendu": "Dafalgan",
+      "condition": "rotation_90",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "b6690ad7ed357dc5da51fae1145359a31d899d0676b5853872765c1d8f092f7d"
+    },
+    {
+      "fichier": "dafalgan_recadrage.png",
+      "nom_attendu": "Dafalgan",
+      "condition": "recadrage",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "c785bfadc72c7f9c1b57a3945d89d0909568ac07f729bd451484ed3cb19852d9"
+    },
+    {
+      "fichier": "imodium_net.png",
+      "nom_attendu": "Imodium",
+      "condition": "net",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "1e2c6deee7ea4c6879ff51c5cc9193ab1ee47dac706bb6629b9e47c7f8c1e7e6"
+    },
+    {
+      "fichier": "imodium_rotation_90.png",
+      "nom_attendu": "Imodium",
+      "condition": "rotation_90",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "9977b7524fd7f4f1bb96a74e2abb68c884750c0d6f812d41e29450cb70280130"
+    },
+    {
+      "fichier": "imodium_recadrage.png",
+      "nom_attendu": "Imodium",
+      "condition": "recadrage",
+      "sous_jeu": "complet",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "00200c3db78dcee748929ed0764892926b695f22c7f18b3ce5f7e1a131d9cfb3"
+    },
+    {
+      "fichier": "arabe_doliprane.png",
+      "nom_attendu": "Doliprane",
+      "condition": "arabe_seul",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "0698fcbcea70764215d240074c538fe01919b285a9117ca5bf60b5f170a8b10f"
+    },
+    {
+      "fichier": "arabe_smecta.png",
+      "nom_attendu": "Smecta",
+      "condition": "arabe_seul",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "b199d5b0e9b6ad6b04150ba4e8098aad191d54071b1b3e03b3b4a0e48d1b9a8a"
+    },
+    {
+      "fichier": "inconnu.png",
+      "nom_attendu": null,
+      "condition": "hors_catalogue",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "6e5531168f63f3159ecf094e9f1e11b114860ab5879bf634cf68b44f6190030e"
+    },
+    {
+      "fichier": "vide.png",
+      "nom_attendu": null,
+      "condition": "sans_texte",
+      "sous_jeu": "rapide",
+      "origine": "fiche_texte_synthetique",
+      "sha256": "8877ce4764760cf75226f6edc4453f54ce497616895b28a5f282b71ec53992d8"
+    }
+  ]
+}
